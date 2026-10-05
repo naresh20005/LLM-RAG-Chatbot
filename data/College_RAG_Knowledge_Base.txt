@@ -1,0 +1,281 @@
+COLLEGE PLACEMENT & STUDENT KNOWLEDGE BASE
+============================================================
+
+1. COLLEGE OVERVIEW
+-------------------
+The college is a fictional engineering college created for an educational RAG chatbot project. The college provides undergraduate programs in Information Technology, Computer Science and Engineering, Electronics and Communication Engineering, Electrical and Electronics Engineering, Mechanical Engineering, and Civil Engineering.
+The college focuses on academic knowledge, technical skills, communication, teamwork, internships, innovation, industry interaction, and career development.
+The Training and Placement Cell coordinates placement activities, communicates recruitment opportunities, conducts training programs, and supports students during recruitment drives.
+Students are encouraged to participate in coding clubs, technical events, workshops, seminars, hackathons, internships, sports, cultural events, and career development programs.
+
+2. INFORMATION TECHNOLOGY DEPARTMENT
+------------------------------------
+The Information Technology department focuses on programming, databases, web technologies, software engineering, data analytics, networking, cloud computing, cybersecurity, and application development.
+Students can prepare for roles such as Software Developer, Python Developer, Data Analyst, Data Engineer, Frontend Developer, Backend Developer, Full Stack Developer, QA Tester, Technical Support Engineer, and Junior Cloud Engineer.
+Important technical subjects include programming fundamentals, object-oriented programming, database management systems, computer networks, operating systems, software engineering, web development, and data analytics.
+
+3. COMPUTER SCIENCE DEPARTMENT
+------------------------------
+The Computer Science department focuses on algorithms, programming, data structures, software engineering, artificial intelligence, machine learning, databases, operating systems, and computer networks.
+Common career areas include software development, backend development, artificial intelligence, machine learning, cloud engineering, DevOps, cybersecurity, testing, and technical consulting.
+
+4. ACADEMIC GUIDELINES
+----------------------
+Students should complete all academic requirements according to the university curriculum.
+Students should maintain the minimum academic performance required by the college and individual companies.
+Students should keep their semester marksheets, consolidated marksheet, certificates, and identity documents safely.
+Students should check whether a recruiter requires percentage, CGPA, specific subject marks, or a particular graduation year.
+Academic eligibility can vary between companies. Eligibility for one company does not guarantee eligibility for another.
+
+5. ATTENDANCE GUIDELINES
+------------------------
+Students are expected to attend academic activities regularly and follow the attendance requirements of the institution.
+Students should communicate with the appropriate faculty member if they cannot attend an important academic activity.
+Students participating in placement training should balance placement preparation with academic responsibilities.
+Students should not assume that attendance rules are identical across departments or academic activities. They should follow official college instructions.
+
+6. PLACEMENT ELIGIBILITY
+------------------------
+Placement eligibility is decided separately for every recruiting company.
+Common criteria include minimum 10th marks, minimum 12th marks, minimum diploma marks when applicable, minimum degree CGPA or percentage, active arrears, history of arrears, education gaps, graduation year, and technical requirements.
+Example eligibility rules used in this fictional knowledge base are: 7.0 CGPA, 7.5 CGPA, or 8.0 CGPA depending on the company.
+Some companies may require no active arrears. Some may also restrict candidates based on previous arrears or education gaps.
+Students should always read the complete official company notification before applying.
+
+7. SAMPLE COMPANY RULES
+-----------------------
+TechNova Solutions is a fictional software company. Its sample requirement is a minimum CGPA of 7.0 and no active arrears. The sample assessment includes aptitude and technical evaluation.
+DataSphere Analytics is a fictional data company. Its sample requirement is a minimum CGPA of 7.5 and no active arrears. The assessment focuses on SQL, Python, data analysis, and interview performance.
+CloudBridge Systems is a fictional cloud services company. Its sample requirement is a minimum CGPA of 7.0. The recruitment process may include aptitude and basic cloud questions.
+CodeCraft Technologies is a fictional software engineering company. Its sample requirement is a minimum CGPA of 8.0 and no active arrears. Coding and technical interviews are important parts of the sample process.
+FinEdge Digital is a fictional technology company. Its sample requirement is a minimum CGPA of 7.5 and no active arrears. The sample process includes aptitude, coding, technical evaluation, and HR discussion.
+
+8. PLACEMENT REGISTRATION
+-------------------------
+Students should first read the company eligibility notification.
+Students should verify their academic marks, CGPA, arrears status, graduation year, and other criteria.
+Students should submit the registration form before the specified deadline.
+Students should provide accurate personal and academic information.
+Students should upload an updated resume when requested.
+Students should attend pre-placement presentations and assessments according to the schedule.
+Shortlisted candidates should attend technical and HR interviews.
+After receiving an offer, students should carefully read the offer details, joining conditions, location, role, and other requirements.
+
+9. PLACEMENT ASSESSMENT
+-----------------------
+A typical software recruitment assessment may contain aptitude, logical reasoning, verbal ability, coding, technical questions, communication evaluation, technical interview, and HR interview.
+Aptitude tests commonly evaluate numerical ability, percentages, ratios, averages, time and work, time and distance, probability, and data interpretation.
+Coding tests commonly include strings, arrays, loops, functions, searching, sorting, basic mathematics, and data structures.
+Technical interviews commonly ask about programming, OOP, SQL, DBMS, operating systems, computer networks, projects, internships, and resume skills.
+
+10. APTITUDE PREPARATION
+------------------------
+Percentages: percentage increase, decrease, successive percentage changes, and percentage comparisons.
+Profit and Loss: cost price, selling price, discount, profit percentage, and loss percentage.
+Ratio and Proportion: ratios, direct proportion, inverse proportion, and basic mixture problems.
+Averages: simple average, weighted average, and average-based word problems.
+Time and Work: individual efficiency, combined work, and work completion problems.
+Time, Speed and Distance: speed calculations, relative speed, and train-related problems.
+Simple and Compound Interest: principal, rate, time, interest, and amount calculations.
+Probability: basic probability and simple counting problems.
+Permutations and Combinations: arrangements, selections, and basic counting.
+Logical Reasoning: number series, coding-decoding, directions, blood relations, syllogisms, and seating arrangements.
+Verbal Ability: grammar, vocabulary, sentence correction, reading comprehension, and paragraph completion.
+
+11. PYTHON PREPARATION
+----------------------
+Python variables are names that refer to objects or values.
+Conditional statements such as if, elif, and else are used for decision making.
+For loops and while loops are used for repeated execution.
+Functions are reusable blocks of code that can accept arguments and return values.
+Lists are ordered and mutable collections. Tuples are ordered and immutable collections.
+Dictionaries store key-value pairs and are useful for representing structured information.
+Sets store unique values and support set operations.
+Exception handling uses try, except, else, and finally to manage runtime errors.
+Object-oriented programming includes classes, objects, constructors, inheritance, polymorphism, abstraction, and encapsulation.
+Common interview topics include shallow copy, deep copy, local and global variables, scope, modules, packages, iterators, generators, and list comprehensions.
+
+12. SQL PREPARATION
+-------------------
+SQL is used to store, retrieve, update, and manage data in relational databases.
+SELECT retrieves data.
+INSERT adds records.
+UPDATE modifies existing records.
+DELETE removes records.
+WHERE filters rows.
+GROUP BY creates groups for aggregate calculations.
+HAVING filters grouped results.
+ORDER BY sorts query results.
+COUNT, SUM, AVG, MIN, and MAX are common aggregate functions.
+INNER JOIN returns matching records from related tables.
+LEFT JOIN keeps all records from the left table and matching records from the right table.
+A primary key uniquely identifies a record.
+A foreign key creates a relationship between tables.
+Normalization reduces unnecessary data duplication and improves database structure.
+
+13. DATA ANALYTICS
+------------------
+Data analysts commonly use Excel, SQL, Python, Pandas, NumPy, Power BI, and visualization tools.
+Pandas can load, clean, filter, transform, group, and analyze tabular data.
+NumPy provides numerical arrays and mathematical operations.
+Power BI can create dashboards, reports, measures, calculated columns, and interactive visualizations.
+Data cleaning includes handling missing values, correcting data types, removing duplicates, encoding categorical values, and detecting outliers.
+Common statistical concepts include mean, median, mode, variance, standard deviation, correlation, and distributions.
+
+14. MACHINE LEARNING
+--------------------
+Supervised learning uses labeled data to learn a relationship between input features and a target.
+Regression predicts continuous numerical values.
+Classification predicts categories or classes.
+Linear Regression is commonly used for continuous target prediction.
+Logistic Regression is commonly used for classification.
+Training data is used to fit a model and test data is used to evaluate how the model performs on unseen data.
+Common regression metrics include MAE, MSE, RMSE, and R-squared.
+Overfitting occurs when a model learns the training data too closely and performs poorly on new data.
+Feature scaling is useful for algorithms that are sensitive to feature magnitude.
+
+15. WEB DEVELOPMENT
+-------------------
+HTML defines webpage structure.
+CSS controls presentation, layout, spacing, fonts, and responsive design.
+JavaScript adds interactivity and dynamic behavior.
+The DOM represents webpage elements as objects that JavaScript can read and modify.
+React is a component-based JavaScript library used for building user interfaces.
+Django is a Python web framework used for backend applications.
+REST APIs allow frontend and backend systems to communicate through HTTP methods such as GET, POST, PUT, PATCH, and DELETE.
+
+16. PROJECT EXPLANATION
+-----------------------
+Students should be able to explain every project listed on their resume.
+A good project explanation starts with the problem statement.
+Next explain the proposed solution and the target users.
+Then explain the technology stack and why each technology was selected.
+Explain the database structure and important tables when the project uses a database.
+Explain your personal contribution instead of describing only the team's work.
+Explain at least one technical challenge and how it was solved.
+Explain the final result and possible future improvements.
+
+17. RESUME GUIDELINES
+---------------------
+Keep the resume concise, readable, and relevant to the target job.
+List only technologies that you can explain in an interview.
+Project descriptions should include the problem, technologies, features, and contribution.
+Use accurate dates for education, internships, and projects.
+Check spelling, grammar, contact details, links, and formatting.
+Create role-specific resume versions when necessary, such as software developer, data analyst, or frontend developer.
+
+18. TECHNICAL INTERVIEW QUESTIONS
+---------------------------------
+What is the difference between a list and a tuple in Python?
+What is the difference between a for loop and a while loop?
+What is a function?
+What is object-oriented programming?
+What is inheritance?
+What is the difference between shallow copy and deep copy?
+What is a primary key?
+What is a foreign key?
+What is the difference between WHERE and HAVING?
+What is an INNER JOIN?
+What is normalization?
+What is the difference between regression and classification?
+What is the difference between linear regression and logistic regression?
+What is overfitting?
+What is train-test split?
+What is an API?
+What is the difference between frontend and backend?
+What is the DOM?
+Why did you choose the technologies used in your project?
+
+19. HR INTERVIEW QUESTIONS
+--------------------------
+Tell me about yourself.
+Why should we hire you?
+Why do you want to join our company?
+What are your strengths?
+What is one area you are improving?
+Where do you see yourself in five years?
+Are you comfortable working in a team?
+Describe a difficult problem you solved.
+Tell me about a project you are proud of.
+How do you handle failure?
+How do you learn a new technology?
+Are you willing to relocate?
+How do you manage deadlines?
+Do you have any questions for us?
+
+20. INTERNSHIP GUIDELINES
+-------------------------
+Before accepting an internship, students should understand the role, duration, technology requirements, location, stipend information when applicable, and expected responsibilities.
+Internship projects should be documented with the problem statement, tasks completed, technologies used, learning outcomes, and final result.
+Students should not claim responsibilities or technologies they did not actually use.
+Internship experience can be added to the resume using concise action-oriented statements.
+Students should preserve internship certificates and project documentation for future verification.
+
+21. PLACEMENT DOCUMENTS
+-----------------------
+Updated resume.
+College identity card.
+10th standard marksheet.
+12th standard or diploma marksheet.
+Semester marksheets.
+Consolidated marksheet when applicable.
+Degree or provisional certificate when available.
+Internship certificates.
+Relevant course or skill certificates.
+Government identity proof when requested.
+Passport-size photographs when requested.
+
+22. COMMUNICATION AND PROFESSIONAL BEHAVIOR
+-------------------------------------------
+Students should use professional language when communicating with recruiters, faculty members, and placement coordinators.
+Students should respond to important placement announcements before the deadline.
+Students should not share passwords, OTPs, or confidential account information.
+Students should verify suspicious recruitment messages through official channels before submitting personal information.
+During interviews, students should answer honestly, listen carefully, and ask for clarification when they do not understand a question.
+
+23. FREQUENTLY ASKED QUESTIONS
+------------------------------
+Q: Which company requires the highest sample CGPA? A: CodeCraft Technologies requires 8.0 CGPA in this fictional knowledge base.
+Q: What is the sample CGPA for DataSphere Analytics? A: 7.5.
+Q: Which company focuses on SQL and Python? A: DataSphere Analytics.
+Q: Which company has coding and technical evaluation? A: CodeCraft Technologies has coding and technical evaluation in the sample process.
+Q: What documents are commonly required? A: Resume, college ID, academic marksheets, identity proof when requested, and relevant certificates.
+Q: What should a student prepare for a Python interview? A: Python basics, collections, functions, exception handling, OOP, scope, modules, and common programming problems.
+Q: What SQL topics should a student study? A: SELECT, filtering, grouping, joins, aggregate functions, keys, normalization, and subqueries.
+Q: What should a student explain about a project? A: Problem, solution, technology, features, personal contribution, challenges, result, and future improvements.
+Q: Can eligibility differ between companies? A: Yes. Each company can define its own recruitment criteria.
+Q: Are the company rules in this PDF official? A: No. They are fictional examples created for RAG practice.
+
+24. RAG TEST QUESTIONS
+----------------------
+Which company requires 7.0 CGPA?
+Which company requires 7.5 CGPA?
+Which company requires 8.0 CGPA?
+Which company focuses on SQL and Python?
+What is the placement registration process?
+What documents are required for placement?
+What are common aptitude topics?
+What should I prepare for a Python interview?
+What are the important SQL commands?
+What is the difference between WHERE and HAVING?
+What is a primary key?
+What is a foreign key?
+What is regression?
+What is classification?
+What is linear regression?
+What is logistic regression?
+What is overfitting?
+What is train-test split?
+What is HTML?
+What is CSS?
+What is JavaScript?
+What is React?
+What is Django?
+What should I explain about my project?
+What are common HR questions?
+What should I check before accepting an internship?
+
+25. FINAL NOTE
+--------------
+This document is fictional educational content designed to test a Retrieval Augmented Generation chatbot. Company names, eligibility rules, policies, and requirements are examples only. For real recruitment decisions, students should use official notices from the relevant company or institution.
+
