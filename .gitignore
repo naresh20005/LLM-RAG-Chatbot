@@ -4,3 +4,6 @@
 venv/
 .env
 .vscode/
+vectorstore/
+*.faiss
+*.pkl
